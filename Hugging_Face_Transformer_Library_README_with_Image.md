@@ -1,4 +1,4 @@
-![Hugging Face Libraries](https://huggingface.co/docs/transformers/main/main_classes/pipelines)
+
 
 # Hugging Face Transformer Library
 
