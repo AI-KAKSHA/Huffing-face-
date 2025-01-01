@@ -1,4 +1,4 @@
-![Hugging Face Libraries](sandbox:/mnt/data/Screenshot%202025-01-01%20225500.png)
+![Hugging Face Libraries](https://huggingface.co/docs/transformers/main/main_classes/pipelines)
 
 # Hugging Face Transformer Library
 
